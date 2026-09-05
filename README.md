@@ -21,4 +21,3 @@ Build strong problem-solving skills and develop a solid understanding of common 
 Problems are primarily solved on [LeetCode](https://leetcode.com/problemset/).
 
 Each solution is written and tested by me.
-# algorithm-journal
